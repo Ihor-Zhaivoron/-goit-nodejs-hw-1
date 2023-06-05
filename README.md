@@ -1,10 +1,9 @@
-# -goit-nodejs-hw-1
+# goit-nodejs-hw-1
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 node index.js --action="list"
 https://monosnap.com/file/TzKck8TrPh4cvPKwb6MPXPGYqqCSBO
-<img src="https://monosnap.com/file/TzKck8TrPh4cvPKwb6MPXPGYqqCSBO" alt="list" border="0">
 
 # Отримуємо контакт по id
 
