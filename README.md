@@ -4,6 +4,7 @@
 
 node index.js --action="list"
 https://monosnap.com/file/TzKck8TrPh4cvPKwb6MPXPGYqqCSBO
+<img src="https://monosnap.com/file/TzKck8TrPh4cvPKwb6MPXPGYqqCSBO" alt="list" border="0">
 
 # Отримуємо контакт по id
 
